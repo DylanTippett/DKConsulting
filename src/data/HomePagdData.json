@@ -1,0 +1,226 @@
+{
+  "hero": {
+    "imgUrl": "/images/dkprof.png",
+    "name": "DK Consulting",
+    "heading": "You could say...",
+    "typingText": ["We're Designers.", 1500, "We're Developers.", 1500],
+    "description": "Discover expert web design & social media solutions to boost your brand's online presence. Enhance your visibility, drive traffic, and connect with your audience through tailored posts and consistent engagement. Partner with us to elevate your social media and digital footprint to achieve measurable results.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/theDKConsulting"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/company/thedkconsulting"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.gif",
+    "miniTitle": "About Us",
+    "title": "We Are Available For <span>Digital Solutions</span>",
+    "description": "Our team of experienced web developers and designers is ready to bring your vision to life with a custom website tailored to your specific needs. Whether you need a personal blog, an e-commerce platform, or a complex web application, we have the expertise to deliver a high-quality, responsive, and visually stunning website. We prioritize understanding your business goals and target audience to ensure the final product not only looks great but also performs flawlessly. From concept to launch, we are dedicated to providing exceptional service and support, ensuring your online presence is as unique as your business.",
+    "funfacts": [
+      {
+        "title": "Followers Gained",
+        "number": 60000
+      },
+      {
+        "title": "Years Experience",
+        "number": 4
+      },
+      {
+        "title": "Local Connections",
+        "number": 20
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "Our Work",
+      "title": "RECENT EXAMPLE PROJECTS"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/food.jpg",
+        "title": "Website Design",
+        "subTitle": "Food Business",
+        "details": {
+          "title": "Website Design for Food Business",
+          "description": "In the competitive world of food and beverage, having an engaging and effective online presence is essential. Our Website Design service for Food Businesses is tailored to help you stand out, attract customers, and grow your brand.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS"
+        }
+      },
+      {
+        "thumbUrl": "/images/webbanner.jpg",
+        "title": "Media Banners",
+        "subTitle": "Banner Design",
+        "details": {
+          "title": "Media Banner Designs for Advertising",
+          "description": "Capture attention and drive results with our Media Banner Designs for Advertising. Whether you're promoting a new product, a special offer, or your brand, our expertly crafted banners are designed to make a lasting impression.",
+          "type": "Graphic Design"
+        }
+      },
+      {
+        "thumbUrl": "/images/dashboard.jpg",
+        "title": "Dashboard Design",
+        "subTitle": "Dashboard Integration",
+        "details": {
+          "title": "Dashboard Design",
+          "description": "Unlock the full potential of your data with our Dashboard Design services. We specialize in creating intuitive, visually appealing, and highly functional dashboards that empower you to make data-driven decisions with ease.",
+          "type": "Website"
+        }
+      },
+      {
+        "thumbUrl": "/images/store.jpg",
+        "title": "E-Commerce Design",
+        "subTitle": "Store Web Design",
+        "details": {
+          "title": "Website Design for E-Commerce Store",
+          "description": "Transform your online shopping experience with our Website Design services for E-Commerce Stores. We create visually stunning and highly functional e-commerce websites that drive sales and provide a seamless shopping experience for your customers.",
+          "type": "Website"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "digital <span>solutions</span> we are providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-02.jpg",
+        "title": "Website Services",
+        "subTitle": "Elevate your online presence with our expert Website Design services. Whether you're launching a new site or revamping an existing one, we create visually appealing, user-friendly, and highly functional websites tailored to your business needs.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Social Media",
+        "subTitle": "Boost your online presence and engage your audience with our Social Media Content Creation services. We specialize in crafting compelling and relevant content that captures attention and drives interaction across all your social media platforms.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Graphic Design",
+        "subTitle": "Enhance your brand's visual appeal with our professional Graphic Design services. We create stunning, high-quality graphics that capture attention and communicate your message effectively.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Our Experience",
+      "title": "Certifications and <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "ITCC",
+        "company": "MUTC Cyber Training",
+        "duration": "2023 - 2024",
+        "jobType": "Experience",
+        "companyTitle": "About Experience",
+        "companyDescription": "Over the past 11 months, we have had the unique opportunity to live on a military base while pursuing a degree in Cyber Security & Information Assurance alongside Special Forces. This immersive experience has provided me with an unparalleled understanding of both digital and physical security measures."
+      },
+      {
+        "designation": "CompTIA",
+        "company": "Linux+ Certification",
+        "duration": "May 2024",
+        "jobType": "Certification",
+        "companyTitle": "About Certification",
+        "companyDescription": "This certification demonstrates that an we possesses essential knowledge and skills required to perform tasks in Linux environments. It covers a comprehensive range of competencies including command line interface and system operation and maintenance. Achieving this certification signifies that the we are well-equipped to handle the demands of a Linux administrator role and can confidently manage, troubleshoot, and secure Linux systems in a professional setting."
+      },
+      {
+        "designation": "Industrial Control Systems",
+        "company": "ICS Software and Maintenance",
+        "duration": "JANUARY 2024",
+        "jobType": "Certificate",
+        "companyTitle": "About Certificate",
+        "companyDescription": "An Industrial Control Systems (ICS) certificate demonstrates that we have the specialized knowledge and skills required to design, implement, manage, and secure industrial control systems used in various industries such as manufacturing, energy, and utilities."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Jennings <span>County</span> <br /> SMALL BUSINESSES TRUST US"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "I recently had the pleasure of working with DK IT Consulting, and I couldn't be more satisfied with their services. From the initial consultation to the final implementation, their team displayed exceptional professionalism and expertise. I highly recommend DK IT Consulting to any organization seeking reliable and top-notch IT consulting services. Their expertise, dedication, and outstanding customer service make them a standout partner in the industry.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Vershawn Tabb",
+        "avatarCompany": "Google Reviews"
+      },
+      {
+        "reviewText": "I am thoroughly impressed with the work you guys did for us. Your approach was thorough, innovative, and your customer service was amazing. You took the time to understand our needs and delivered a solution that not only met but exceeded our expectations. A truly outstanding partner in digital solutions!",
+        "avatarImg": "/images/caleb.jpg",
+        "avatarName": "Caleb Jarrell",
+        "avatarCompany": "General Review"
+      },
+      {
+        "reviewText": "Highly recommend for small businesses in our area. Great people to work with, super friendly.",
+        "avatarImg": "/images/gavin.jpg",
+        "avatarName": "Gavin Gunn",
+        "avatarCompany": "General Review"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Business",
+      "subTitle": "Feel free to contact us."
+    },
+    "contactImg": "/images/contact-us.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "inquiries@thedkconsulting.com" },
+      { "title": "Send us a message", "tel": "+1 (812) 767-5451" }
+    ]
+  }
+}
